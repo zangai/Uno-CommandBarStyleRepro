@@ -1,0 +1,1 @@
+C:\Users\pdeco\source\repos\CommandBarStyleRepro\CommandBarStyleRepro\CommandBarStyleRepro.UWP\CommandBarStyleRepro.UWP.csproj;x86
